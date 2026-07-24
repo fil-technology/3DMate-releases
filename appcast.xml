@@ -11,7 +11,7 @@
             <sparkle:version>209</sparkle:version>
             <sparkle:shortVersionString>0.9.189</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates/3D.Mate.0.9.189.zip" length="13895362" type="application/octet-stream" sparkle:edSignature="PynBb306//TgMo7vU/VrhDR5au7uhSkpVz74dr0sIDK99v65UGo+XxBRYALXinVJN5nDo746v6PtiTnYgsKkCA=="/>
+            <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates/3D.Mate.0.9.189.zip" length="13895439" type="application/octet-stream" sparkle:edSignature="Zj4b3gaILdtcnUyVvcTQtsvbc0cDm+obQOVhO49fEz/f1O5aGBgIkfxqRQh7ZHQ/LF/cvuZ5mYDf+husyCvcBw=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates/3D%20Mate209-208.delta" sparkle:deltaFrom="208" length="630930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dhSdXxtBgo3SAZDsticbBh99AkQqWb55M96fSdYnIp7QEcufU6FT1Af2KV9rEeF9zB0bFOE1tK+Y03NHORXmCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates/3D%20Mate209-207.delta" sparkle:deltaFrom="207" length="638390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0oEWscks9V8h1FYwNoXqtMH1sVdbMx0hsDPIdpQI8+JerENJCk+0yd2LmoRr22d46xWNnY7w1mCk/1dgx6zACg=="/>
