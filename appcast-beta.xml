@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>3D Mate</title>
+        <item>
+            <title>0.9.323-beta.1</title>
+            <pubDate>Sun, 01 Nov 2026 14:42:15 +0200</pubDate>
+            <sparkle:version>343.1</sparkle:version>
+            <sparkle:shortVersionString>0.9.323-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D.Mate.0.9.323-beta.1.zip" length="23518653" type="application/octet-stream" sparkle:edSignature="f8jKTrjBLIPlfpmOxXaXOJgYKganOeKjC++2KX+0e8IVpE/4kSnosqIpflg8HnFbpTiLzgtyrNMKwO5cPKwLBw=="/>
+        </item>
+    </channel>
+</rss>
