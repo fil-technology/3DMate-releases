@@ -3,6 +3,21 @@
     <channel>
         <title>3D Mate</title>
         <item>
+            <title>0.9.329-beta.1</title>
+            <pubDate>Fri, 27 Nov 2026 12:43:00 +0200</pubDate>
+            <sparkle:version>349.1</sparkle:version>
+            <sparkle:shortVersionString>0.9.329-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D.Mate.0.9.329-beta.1.zip" length="24488364" type="application/octet-stream" sparkle:edSignature="L0IrUBJyiqmWQ6bv3OFyXHLYFSBwCHwU84dvVMp33ediOt7ttK7xAAd2mPqGj18MA7m6lVWypUyCyeLU3bj8AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate349.1-348.1.delta" sparkle:deltaFrom="348.1" length="517882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="isx7MZMEVCKbTawSLuJx5CW7vv+fMLyOeav70GATtDtTOBetBH2SPlBrbR5LpM2f8+zciURzaSX9gWTyCjd5Dg=="/>
+                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate349.1-347.1.delta" sparkle:deltaFrom="347.1" length="1604434" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bLWonlMF2drh7wMsPflHAVGwy7PvNtUvPZ/+bhDtTAieh1ap/PDI32iELHOd0v8GnQy8sLmOimfLTdkNb9bSCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate349.1-346.1.delta" sparkle:deltaFrom="346.1" length="1612518" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="htE5pFIDam5GLZip93GFGkowpYA+pdVHPLKH0IK75qi2XV3NI9ILszFUPIe59NwRmKZnWEV7j3CS6zx5YOU+AQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate349.1-344.1.delta" sparkle:deltaFrom="344.1" length="1927126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tI1xOmYaTObxHVpm4JC9QeGUUd5VR/rYkhODR4TturV5wUTajnQdRNpUDPrNNGiNhcN/EgNKROnH0l4+a6nbDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate349.1-343.6.delta" sparkle:deltaFrom="343.6" length="1942142" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gBPIssfphTfak5zVpQgKEq+rtIWPtVFLpKbZzR7pKU2O9e0AVr4VTtERrNrXoVEAQ5I5iD6d3vgQPmqqxf67CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.328-beta.1</title>
             <pubDate>Thu, 26 Nov 2026 13:59:44 +0200</pubDate>
             <sparkle:version>348.1</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate347.1-343.6.delta" sparkle:deltaFrom="343.6" length="1814702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gg1CiRge5g+3nUM1UcdvTslBt46Z8eLzIPonT/awMvK+GE1EsRIZQuNBE3ubD96WqK4jBd31dHwFh5vUuoeXAQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate347.1-343.5.delta" sparkle:deltaFrom="343.5" length="1971274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GX7muMjWqGehQcsqfn3XuNmbbRSW9cAFH6oqZnge8b6wj0J6jRsPG774j4pOQywwiANA5IOmc9cXbDvyFvbuCw=="/>
                 <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate347.1-343.4.delta" sparkle:deltaFrom="343.4" length="2213090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WUJoZ7arMFpkhVD0ps6BqqSWJOwqL45WSxBWpNtAspvyyCBtAlZb/kZ5e6g/RQe6PGe8mhs/tswC1K/BhYZhCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.9.326-beta.1</title>
-            <pubDate>Thu, 12 Nov 2026 12:18:10 +0200</pubDate>
-            <sparkle:version>346.1</sparkle:version>
-            <sparkle:shortVersionString>0.9.326-beta.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D.Mate.0.9.326-beta.1.zip" length="24427494" type="application/octet-stream" sparkle:edSignature="u4kZkfxxvQ0BxgpywQv3fZJ4K8dHzCCAeva+oqcdVNr3TxYTcdn6Qlb4CurUIBX9L0vzR1FRbydIsgYKIROmAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate346.1-344.1.delta" sparkle:deltaFrom="344.1" length="1832394" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FFTmtbVut7VN2XgxciB+U7QETds3R0gqu3eS94swxdABuy77kYcrNiWjeUsCyovGiYYClKQPnYA+CwGu5MKHCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate346.1-343.6.delta" sparkle:deltaFrom="343.6" length="1836362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Vwr0T90FKXoykm5grpOU3rE3xzOL8OIgoH+PIlxnOrI9hQp10OiUYKtFSVL5BZkp4e/VlGNL+mij0pBYevWWAw=="/>
-                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate346.1-343.5.delta" sparkle:deltaFrom="343.5" length="1946070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="er+3LAlZE3cc2UIU9k4Jy3YqwYEaeC2PAPRdh/cIoyC75zugUh6WYoUaEu37gwL2xGfZycRb2Oaj0S4VpYdqBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate346.1-343.4.delta" sparkle:deltaFrom="343.4" length="2221322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hTDfh/xgcGs0M6wREn37w9rQO7lNGBJWfhQCMmNAq+ouBebNI5wMQEWxphJLzP3XYYSiSVDGUjCB6BiG3/ejCw=="/>
-                <enclosure url="https://raw.githubusercontent.com/fil-technology/3DMate-releases/main/updates-beta/3D%20Mate346.1-343.3.delta" sparkle:deltaFrom="343.3" length="2479902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Th2WRFHj3SZmFcT5Ln41J3SAwjoOe6SI9eeiUVDSjD56E/ZZ7U3Ih4tqeW+BSh4aKn9TaYjA6jsk3TXtz4q+Dw=="/>
             </sparkle:deltas>
         </item>
     </channel>
